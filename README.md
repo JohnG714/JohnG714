@@ -1,6 +1,6 @@
 # Hi, I'm John 👋
 
-I'm an engineer focused on **embedded systems, AI/ML, and hardware–software integration**.  
+I'm an engineer focused on **embedded systems, AI/ML, high performance computing, and hardware–software integration**.  
 This GitHub serves as a portfolio of **solo projects, coursework, and experimental prototypes** spanning microcontrollers, signal processing, and applied machine learning.
 
 ---
@@ -15,7 +15,7 @@ This GitHub serves as a portfolio of **solo projects, coursework, and experiment
 ---
 
 ## 🧠 Languages & Tools
-- **Languages:** C, C++, Python, MATLAB
+- **Languages:** C, C++, Python, MATLAB, Julia, Lua
 - **Embedded Platforms:** ESP32, STM32, Arduino, TI demo boards
 - **Frameworks & SDKs:** ESP-IDF, Arduino, FreeRTOS
 - **Tools:** Git, Linux, VS Code, PlatformIO
@@ -31,5 +31,4 @@ This GitHub serves as a portfolio of **solo projects, coursework, and experiment
 
 ## 📫 Contact
 - GitHub: https://github.com/JohnG714
-## 📫 Contact
-- GitHub: https://github.com/JohnG714
+
