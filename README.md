@@ -1,6 +1,6 @@
 # Hi, I'm John 👋
 
-I'm an engineer focused on **embedded systems, AI/ML, high performance computing, and hardware–software integration**.  
+I'm an eng focused on **embedded systems, AI/ML, high performance computing, and hardware–software integration**.  
 This GitHub serves as a portfolio of **solo projects, coursework, and experimental prototypes** spanning microcontrollers, signal processing, and applied machine learning.
 
 ---
