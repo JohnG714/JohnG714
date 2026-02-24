@@ -11,6 +11,7 @@ This GitHub serves as a portfolio of **solo projects, coursework, and experiment
 - Digital Signal Processing (DSP)
 - Hardware–Software Co-Design
 - Linux-based Development & Tooling
+- Other things
 
 ---
 
@@ -31,4 +32,3 @@ This GitHub serves as a portfolio of **solo projects, coursework, and experiment
 
 ## 📫 Contact
 - GitHub: https://github.com/JohnG714
-
